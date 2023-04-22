@@ -47,7 +47,7 @@
 
 ## Reference
 
-- University of Richmond Full Stack Bootcamp
+- University of Richmond Full Stack Bootcamp Modules
 
 ## Test Instructions
 
